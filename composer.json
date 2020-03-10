@@ -18,7 +18,8 @@
     "ext-simplexml": "*",
     "guzzlehttp/guzzle": "~6.0"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "DPN\\DHLShipmentTracking\\": "src/"
